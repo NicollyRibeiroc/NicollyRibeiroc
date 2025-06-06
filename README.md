@@ -1,9 +1,8 @@
-# 👋 Olá! Eu sou Nicolly :)
+# Oii, sou Nicolly :) 
 
 - Atualmente desenvolvendo projetos em **JavaScript** e **HTML/CSS**;
 - Estudando **Análise e Desenvolvimento de Sistemas** na **SPtech**;
-- Téc. em Informática para Internet.
-- Apaixonada por tecnologia, programação e aprendizado constante;
+- Téc. em **Informática para Internet**;
 
 ---
 
