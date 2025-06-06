@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Olá! Eu sou Nicolly :)
 
-<!--
-**NicollyRibeiroc/NicollyRibeiroc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Atualmente desenvolvendo projetos em **JavaScript** e **HTML/CSS**;
+- Estudando **Análise e Desenvolvimento de Sistemas** na **SPtech**;
+- Apaixonada por tecnologia, programação e aprendizado constante;
+- Téc. em Informática para Internet.
 
-Here are some ideas to get you started:
+## Tecnologias e Ferramentas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+## Estatísticas
+
+![NicollyRibeiroc](https://github-readme-stats.vercel.app/api?NicollyRibeiroc&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicollyRibeiroc&layout=compact&theme=dracula)
+
+## Contato
+
+- ✉️ Email: nicollyribeirocrs@gmail.com
