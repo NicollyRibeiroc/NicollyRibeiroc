@@ -2,7 +2,7 @@
 
 - Atualmente desenvolvendo projetos em **JavaScript** e **HTML/CSS**;
 - Estudando **Análise e Desenvolvimento de Sistemas** na **SPtech**;
-- Téc. em **Informática para Internet**;
+- Téc. em **Informática para Internet**.
 
 ---
 
