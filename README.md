@@ -3,7 +3,7 @@
 - Atualmente desenvolvendo projetos em **JavaScript** e **HTML/CSS**;
 - Estudando **Análise e Desenvolvimento de Sistemas** na **SPtech**;
 - Téc. em **Informática para Internet**.
-- Estagiária na Accenture, na área de time funcional
+- Estagiária na **Accenture**, na área de time funcional
 
 ---
 
