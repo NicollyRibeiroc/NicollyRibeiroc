@@ -15,20 +15,6 @@
 ![Java](https://img.shields.io/badge/Java-0F172A?style=flat&logo=java&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
-
----
-
-## Estatísticas do GitHub
-
-<div align="center">
-
-![Nicolly GitHub Stats](https://github-readme-stats.vercel.app/api?username=NicollyRibeiroc&show_icons=true&theme=dracula&count_private=true&hide_title=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicollyRibeiroc&layout=compact&theme=dracula)
-
-</div>
-
----
-
 ## Contato
 
 - ✉️ Email: nicollyribeirocrs@gmail.com
