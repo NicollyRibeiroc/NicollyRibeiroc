@@ -19,4 +19,5 @@
 
 - ✉️ Email: nicollyribeirocr://github-readme-stats.vercel.app/api?username=NicollyRibeiroc&show_icons=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=NicollyRibeiroc&theme=tokyonight)
+
