@@ -6,10 +6,10 @@
 
 ## Sobre mim
 
-▸ Desenvolvendo projetos em **JavaScript** e **HTML/CSS**
-▸ Estudando **Análise e Desenvolvimento de Sistemas** na **SPtech**
-▸ Técnica em **Informática para Internet**
-▸ Estagiária na **Accenture** — área de time funcional
+- Desenvolvendo projetos em **JavaScript** e **HTML/CSS**
+- Estudando **Análise e Desenvolvimento de Sistemas** na **SPtech**
+- Técnica em **Informática para Internet**
+- Estagiária na **Accenture** — área de time funcional
 
 ---
 
@@ -25,7 +25,6 @@
 
 ## GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=NicollyRibeiroc&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117)
 ![Streak](https://streak-stats.demolab.com?user=NicollyRibeiroc&theme=tokyonight&hide_border=true&background=0D1117)
 
 ---
