@@ -17,8 +17,6 @@
 
 ## Contato
 
-- ✉️ Email: nicollyribeirocrs@gmail.com
+- ✉️ Email: nicollyribeirocr://github-readme-stats.vercel.app/api?username=NicollyRibeiroc&show_icons=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NicollyRibeiroc&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicollyRibeiroc&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight)
