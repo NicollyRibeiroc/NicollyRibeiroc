@@ -6,10 +6,10 @@
 
 ## Sobre mim
 
-- ▸ Desenvolvendo projetos em **JavaScript** e **HTML/CSS**
-- ▸ Estudando **Análise e Desenvolvimento de Sistemas** na **SPtech**
-- ▸ Técnica em **Informática para Internet**
-- ▸ Estagiária na **Accenture** — área de time funcional
+▸ Desenvolvendo projetos em **JavaScript** e **HTML/CSS**
+▸ Estudando **Análise e Desenvolvimento de Sistemas** na **SPtech**
+▸ Técnica em **Informática para Internet**
+▸ Estagiária na **Accenture** — área de time funcional
 
 ---
 
