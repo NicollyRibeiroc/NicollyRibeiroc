@@ -6,8 +6,7 @@
 
 ## Sobre mim
 
-- Desenvolvendo projetos em **JavaScript** e **HTML/CSS**
-- Estudando **Análise e Desenvolvimento de Sistemas** na **SPtech**
+- Estudando **Análise e Desenvolvimento de Sistemas** na **SPtech 3/5**
 - Técnica em **Informática para Internet**
 - Estagiária na **Accenture** — área de time funcional
 
